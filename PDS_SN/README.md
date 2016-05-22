@@ -1,6 +1,6 @@
 # PDS S/N
 
-Response to the 2015 NASA CAN proposing the creation of a new PDS Software Node.
+Response to the 2015 NASA CAN proposing the creation of a new PDS Software Node. The project was not selected for fudning.
 
 **Copyright, the authors.**
 
